@@ -1,4 +1,3 @@
-#Blog Post
 <!-- BLOG-POST-LIST:START -->
 Hello
 
